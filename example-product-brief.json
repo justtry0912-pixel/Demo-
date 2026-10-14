@@ -1,0 +1,64 @@
+{
+  "project_name": "Example Product Launch Ad",
+  "brand_name": "Your Brand",
+  "product_name": "Your Product",
+  "product_category": "Skincare",
+  "objective": "Create a premium short-form ad that introduces the product and encourages viewers to learn more.",
+  "target_audience": {
+    "age_range": "18-35",
+    "description": "People interested in simple, premium skincare routines"
+  },
+  "platforms": [
+    "Instagram Reels",
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "deliverables": {
+    "aspect_ratios": [
+      "9:16",
+      "1:1",
+      "16:9"
+    ],
+    "duration_seconds": [
+      15,
+      30
+    ],
+    "captions": true,
+    "versions": [
+      "with text overlays",
+      "clean version without text overlays"
+    ]
+  },
+  "visual_direction": {
+    "style": "Premium, minimal, cinematic product advertising",
+    "color_palette": [
+      "warm beige",
+      "soft white",
+      "muted green"
+    ],
+    "lighting": "Soft studio lighting with controlled highlights",
+    "motion": "Smooth camera moves, elegant transitions, restrained kinetic typography"
+  },
+  "brand_assets": {
+    "logo_file": "Provide logo if available",
+    "product_images": [],
+    "brand_fonts": [],
+    "brand_colors": []
+  },
+  "copy_guidelines": {
+    "key_message": "A simple moment in your daily routine",
+    "call_to_action": "Discover more",
+    "claims_to_avoid": [
+      "Do not invent clinical results, certifications, customer testimonials, or performance claims.",
+      "Only use product claims supplied and approved by the client."
+    ]
+  },
+  "production_requirements": {
+    "preferred_tool": "Ask client; suggest suitable tools based on requirements",
+    "include_storyboard": true,
+    "include_timing_and_shot_list": true,
+    "include_sound_design_notes": true,
+    "include_rendering_or_export_settings": true
+  },
+  "notes": "Example only. Replace this sample information with the actual client's approved details before production."
+}
